@@ -2,29 +2,22 @@
 ### I am Fawzy. Welcome to my github profile.
 
 **About Me:**
-- I’m addicted to Data Analysis and I love learning new skills
-- I have a Healthcare background and started transitioning into Data Analytics in December 2021
-- I obtained the Google Data Analytics Certificate in June 2022
-- I self-taught SQL and Tableau
-- I have experience in Data Cleaning and Wrangling, Data Visualization, Data Analysis, Dashboard Design and Development
+- I’m a Junior Data Analyst. I have started to transition into this field in June 2022, but I am already addicted to it.
+- I have a Healthcare background as I am a Pharmacist who have been working as an Oncology Clincal Pharmacist for five year.
+- For more details, find my at [LinkedIn](https://www.linkedin.com/in/fawzy-almatary/).
+- To have a look at my portfolio projects: [Click Here](https://github.com/Fawzy-Almatary/Portfolio-Projects0.
 
-- How to find me: LinkedIn
-Skills💡:
-Microsoft SQL Server
-Tableau
-Microsoft Excel
-Google Sheets
-📚Courses and Certifications📚
-Google Data Analytics Certification: completed June 2022
-⚡Projects on Tableau⚡
-Space Challenge: Click HERE
-👩‍💻Projects on SQL👩‍💻
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
+**Skills:**
+- SQL: Data Management, Data Manipulation, Joining Data, Cleaning Data
+- Python: Pandas, NumPy, Matplotlib, Seaborn
+- MS Excel: Cleaning Data, Conditional Formatting, Pivot Tables, Lookup Functions, Macros
+- Data Visualization: Microsoft Power BI, Tableau
 
-[LinkedIn](https://www.linkedin.com/in/thaiscooke/)
+**Courses and Certifications:**
+- DataCamp Career Tracks:
+  * Data Analyst with Python track
+  * Data Analyst in SQL track
+  * Data Analyst in Power BI track
+- Google Data Analytics Certification
+- Microsoft Excel Expert (Office 2016)
+- IELTS General Training: Band 8 - Advanced (C1 level)
