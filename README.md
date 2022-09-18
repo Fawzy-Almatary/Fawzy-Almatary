@@ -14,7 +14,7 @@
 - **SQL:** Data Management, Data Manipulation, Joining Data, Cleaning Data
 - **Python:** Pandas, NumPy, Matplotlib, Seaborn, SciPy, Statsmodels
 - **MS Excel:** Cleaning Data, Conditional Formatting, Pivot Tables, Lookup Functions, Macros
-- **Interactive** Visualization: Microsoft Power BI, Tableau
+- **Interactive Visualization:** Microsoft Power BI, Tableau
 
 **Courses and Certifications:**
 - Statistics with Python Specialization by University of Michigin at Coursera
