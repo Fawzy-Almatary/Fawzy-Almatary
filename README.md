@@ -6,7 +6,7 @@
 **About Me:**
 - I’m a Junior Data Analyst. I have started to transition into this field in June 2022, but I am already addicted to it.
 - I have a Healthcare background as I am a Pharmacist who have been working as an Oncology Clincal Pharmacist for seven years.
-- I am excited to leverage my years of experience in the healthcare industry to add value in a Data Analytics position. 
+- I look forward to leveraging my years of experience in the healthcare industry to add value in a Data Analytics position. 
 - For more details, find my at [LinkedIn](https://www.linkedin.com/in/fawzy-almatary/).
 - To have a look at my portfolio projects: [Click Here](https://github.com/Fawzy-Almatary/Portfolio-Projects).
 
