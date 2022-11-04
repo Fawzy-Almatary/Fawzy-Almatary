@@ -8,7 +8,7 @@
 - I have a Healthcare background as I am a Pharmacist who have been working as an Oncology Clincal Pharmacist for seven years.
 - I look forward to leveraging my years of experience in the healthcare industry to add value in a Data Analytics position. 
 - For more details, find my at [LinkedIn](https://www.linkedin.com/in/fawzy-almatary/).
-- To have a look at my portfolio projects: [Click Here](https://github.com/Fawzy-Almatary/Portfolio-Projects).
+- To have a look at my portfolio website: [Click Here](https://fawzyalmatary.com/).
 
 **Skills:**
 - **SQL:** Joins, Subqueries, Common Table Expression (CTE), Recursive CTE, Window Functions
