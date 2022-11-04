@@ -11,13 +11,15 @@
 - To have a look at my portfolio projects: [Click Here](https://github.com/Fawzy-Almatary/Portfolio-Projects).
 
 **Skills:**
-- **SQL:** Data Management, Data Manipulation, Joining Data, Cleaning Data
-- **Python:** Pandas, NumPy, Matplotlib, Seaborn, SciPy, Statsmodels
+- **SQL:** Joins, Subqueries, Common Table Expression (CTE), Recursive CTE, Window Functions
+- **Python:** Pandas, NumPy, Matplotlib, Seaborn, SciPy, Statsmodels, BeautifulSoup
+- **SAS:** Base SAS, SAS/STAT, SAS/GRAPH, SAS/Macros, SAS/ODS, SAS/SQL
 - **MS Excel:** Cleaning Data, Conditional Formatting, Pivot Tables, Lookup Functions, Macros
-- **Interactive Visualization:** Microsoft Power BI, Tableau
+- **Interactive Visualization:** Microsoft Power BI, Tableau, JMP
 
 **Courses and Certifications:**
 - Statistics with Python Specialization by University of Michigin at Coursera
+- Data Analyst Nanodegree Program (egFWD Initiative) at Udacity
 - Data Analysis Professional Certification by DataCamp
 - DataCamp Career Tracks:
   * Data Analyst with Python track
