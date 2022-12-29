@@ -5,7 +5,7 @@
 
 **About Me:**
 - I am a Data Analyst with strong Statistical Analysis and Machine Learning skills.
-- I have a Healthcare background as I am a Pharmacist who have been working as a Clincal Oncology Pharmacist for five years.
+- I have a Healthcare background as I am a Pharmacist who have been working as a Clinical Oncology Pharmacist for five years.
 - I look forward to leveraging my years of experience in the healthcare industry to add value in a Data Analytics position. 
 - For more details, find me at [LinkedIn](https://www.linkedin.com/in/fawzy-almatary/).
 - To have a look at my portfolio website: [Click Here](https://fawzyalmatary.com/).
