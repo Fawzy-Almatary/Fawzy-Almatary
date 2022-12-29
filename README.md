@@ -11,8 +11,10 @@
 - To have a look at my portfolio website: [Click Here](https://fawzyalmatary.com/).
 
 **Skills:**
+- **Machine Learning:** Linear Regression, K-Nearest Neighbors, Support Vector Machines, Decision Tree, K-Means.
+-	**Statistical Analysis:** Descriptive Statistics, Hypothesis Testing, Probability, Sampling Distribution
+- **Python:** Pandas, NumPy, Matplotlib, Seaborn, SciPy, Statsmodels, Scikit-learn, BeautifulSoup
 - **SQL:** Joins, Subqueries, Common Table Expression (CTE), Recursive CTE, Window Functions
-- **Python:** Pandas, NumPy, Matplotlib, Seaborn, SciPy, Statsmodels, BeautifulSoup
 - **SAS:** Base SAS, SAS/STAT, SAS/GRAPH, SAS/Macros, SAS/ODS, SAS/SQL
 - **MS Excel:** Cleaning Data, Conditional Formatting, Pivot Tables, Lookup Functions, Macros
 - **Interactive Visualization:** Microsoft Power BI, Tableau, JMP
