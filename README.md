@@ -23,7 +23,7 @@
   * **Python:** Pandas, NumPy, Matplotlib, Seaborn, Plotly, Statsmodels, Scikit-learn, PyTorch, fast.ai, NLTK, OpenCV
   * **SQL:** Joins, Subqueries, Common Table Expression (CTE), Recursive CTE, Window Functions
   * **SAS:** Base SAS, SAS/STAT, SAS/GRAPH, SAS/Macros, SAS/ODS, SAS/SQL
-**Additional Skills:**
+- **Additional Skills:**
   * **Multimodal Machine Learning:** Natural Language Processing (NLP), Computer Vision, Collaborative Filtering
   * **Data Analysis:** Data Cleaning, Data Manipulation, Data Wrangling, Feature Engineering, Data Visualization
   * **Interactive Visualizations:** Power BI, Tableau, JMP
