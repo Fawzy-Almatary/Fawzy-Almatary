@@ -1,5 +1,5 @@
-## <span style="color:red">Hi everyone!</span>
-### <span style="color:blue">I am Fawzy. Welcome to my GitHub profile.</span>
+## Hi everyone!
+### I am Fawzy. Welcome to my GitHub profile.
 
 
 
