@@ -8,8 +8,8 @@
 - I am skilled in Python, SQL, SAS, Excel, Tableau, and Power BI.
 - I am an ITI graduate and a certified Professional Data Analyst from DataCamp, which serves as a concrete testament to my expertise in the field.
 - With 8 years ofexperience in the healthcare industry, I possess a unique blend of domain knowledge and technical skills.
-- I am excited about combining my expertise in healthcare with data science to drive meaningful impact in a Data Science role.
-- Currently, I am actively seeking a role in Data Science where I can apply and further develop my skills.
+- I am excited about combining my expertise in healthcare with data science to drive meaningful impact in a Data Analysis role.
+- Currently, I am actively seeking a new challenging role in Data Analysis where I can apply and further develop my skills.
 - For more details, find me at [LinkedIn](https://www.linkedin.com/in/fawzy-almatary/).
 - To have a look at my portfolio website: [Click Here](http://fawzy-almatary.github.io).
 
