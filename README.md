@@ -4,11 +4,9 @@
 
 
 **About Me:**
-- I am an experienced Data Analyst with a keen focus in Statistical Analysis and Machine Learning.
-- I am skilled in Python, SQL, SAS, Excel, Tableau, and Power BI.
-- I am an ITI graduate and a certified Professional Data Analyst from DataCamp, which serves as a concrete testament to my expertise in the field.
-- With 8 years ofexperience in the healthcare industry, I possess a unique blend of domain knowledge and technical skills.
-- I am excited about combining my expertise in healthcare with data science to drive meaningful impact in a Data Analysis role.
+- I'm Fawzy Almatary, an experienced Data Analyst with a keen focus in Statistical Analysis and Machine Learning, and proficient in a diverse range of tools including Python, SQL, SAS, Excel, Tableau, and Power BI.
+- With extensive experience as a Data Analyst in two reputable companies, coupled with my ITI education and certification as a Professional Data Analyst from Datacamp, I possess a solid foundation of expertise in the field.
+- With 7 years of experience in the healthcare industry, I possess a unique blend of domain knowledge and technical skills. I am excited about combining my expertise in healthcare with data science to drive meaningful impact in a Data Analysis role.
 - Currently, I am actively seeking a new challenging role in Data Analysis where I can apply and further develop my skills.
 - For more details, find me at [LinkedIn](https://www.linkedin.com/in/fawzy-almatary/).
 - To have a look at my portfolio website: [Click Here](http://fawzy-almatary.github.io).
@@ -31,8 +29,9 @@
 
 
 **Courses and Certifications:**
-- Professional Data Scientist Certification by DataCamp
-- Professional Data Analyst Certification by DataCamp
+- Data Analyst Track - Intensive Training Program, Information Technology Institute (ITI)
+- Professional Data Scientist Certification by Datacamp
+- Professional Data Analyst Certification by Datacamp
 - Statistics with Python Specialization by University of Michigin at Coursera
 - Understanding Clinical Research: Behind the Statistics by University of Cape Town at Coursera
 - Data Analyst Nanodegree Program (egFWD Initiative) at Udacity
